@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **InkerXoe/InkerXoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Cioakh.
+### Hi there 👋, I'm InkerXoe.
 Senior High Student  
 
 ```Rust
  let languages = vec!["rust", "cpp", "kotlin", "java", "python"];
 ```
 
-Email: Cioakh@Outlook.com  or  2301385546@qq.com  
+Email: InkerXoe@Outlook.com  or  2301385546@qq.com  
