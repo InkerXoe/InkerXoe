@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Cioakh.
+Senior High Student  
+
+```Rust
+ let languages = vec!["rust", "cpp", "kotlin", "java", "python"];
+```
+
+Email: Cioakh@Outlook.com  or  2301385546@qq.com  
