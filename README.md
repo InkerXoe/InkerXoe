@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Senior High Student  
 
 ```Rust
- let languages = vec!["rust", "cpp", "kotlin", "java", "python"];
+ let mut languages = vec!["rust", "cpp", "kotlin", "java", "python"];
 ```
 
 Email: InkerXoe@Outlook.com  or  2301385546@qq.com  
